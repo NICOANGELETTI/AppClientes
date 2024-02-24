@@ -20,7 +20,7 @@
 
 ### Frontend:
 
-El frontend de la aplicación se desarrolló utilizando JSP (JavaServer Pages) para la generación dinámica de contenido HTML. Se combinó HTML con JSP scriptlets para crear páginas web dinámicas adaptadas a las necesidades del usuario y los datos del servidor. Además, se utilizó Bootstrap para mejorar el diseño y la apariencia de la interfaz de usuario, aprovechando sus componentes y estilos predefinidos.
+El frontend de la aplicación se desarrolló utilizando JSP (JavaServer Pages) para la generación dinámica de contenido HTML. Se combinó HTML con JSP para crear páginas web dinámicas adaptadas a las necesidades del usuario y los datos del servidor. Además, se utilizó Bootstrap para mejorar el diseño y la apariencia de la interfaz de usuario, aprovechando sus componentes y estilos predefinidos.
 
 ### Backend:
 
